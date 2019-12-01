@@ -77,5 +77,14 @@ namespace UserMaintenance {
                 return ResourceManager.GetString("FullName", resourceCulture);
             }
         }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Faljba iras.
+        /// </summary>
+        internal static string Iras {
+            get {
+                return ResourceManager.GetString("Iras", resourceCulture);
+            }
+        }
     }
 }

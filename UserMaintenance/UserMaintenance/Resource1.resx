@@ -123,4 +123,7 @@
   <data name="FullName" xml:space="preserve">
     <value>Teljes nev</value>
   </data>
+  <data name="Iras" xml:space="preserve">
+    <value>Faljba iras</value>
+  </data>
 </root>
