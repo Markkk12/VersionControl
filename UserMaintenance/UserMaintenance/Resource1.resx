@@ -126,4 +126,7 @@
   <data name="Iras" xml:space="preserve">
     <value>Faljba iras</value>
   </data>
+  <data name="Torles" xml:space="preserve">
+    <value>Torles</value>
+  </data>
 </root>

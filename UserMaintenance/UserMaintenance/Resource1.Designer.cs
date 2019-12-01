@@ -86,5 +86,14 @@ namespace UserMaintenance {
                 return ResourceManager.GetString("Iras", resourceCulture);
             }
         }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Torles.
+        /// </summary>
+        internal static string Torles {
+            get {
+                return ResourceManager.GetString("Torles", resourceCulture);
+            }
+        }
     }
 }
